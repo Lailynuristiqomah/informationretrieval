@@ -1,0 +1,2 @@
+# informationretrieval
+tugas1
