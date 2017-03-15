@@ -1,2 +1,1 @@
-# informationretrieval
-tugas1
+#legal retrieval
